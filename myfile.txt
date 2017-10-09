@@ -1,1 +1,2 @@
 first line in file myfile
+second line in myfile is not that much more interesting
